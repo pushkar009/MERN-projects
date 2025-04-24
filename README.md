@@ -30,7 +30,7 @@ Each project includes its own README file. But for general setup:
 
 ```bash
 # Clone the repo
-git clone https://github.com/pushkar009/react-project
+git clone https://github.com/pushkar009/MERN-projects
 
 # Go to a specific project
 cd project-name
