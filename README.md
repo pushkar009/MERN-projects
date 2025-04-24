@@ -1,4 +1,4 @@
-# 📦 react-project
+# 📦 MERN Stack projects
 
 <!--
 Welcome to my **MERN Stack Internship Projects** repository!  
