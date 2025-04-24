@@ -1,42 +1,32 @@
-# 📦 MERN Stack projects
+# Navbar App 🚀
 
-<!--
-Welcome to my **MERN Stack Internship Projects** repository!  
-This space contains hands-on projects built using **MongoDB**, **Express.js**, **React.js**, and **Node.js** — developed during my internship to sharpen full-stack development skills and explore real-world application building.
----
--->
+A modern, responsive navigation bar built using **React**. This project showcases a simple yet elegant navbar design with smooth transitions, dynamic link rendering, and optional social media icons and is inspired by [John Smilga's GitHub Repo](https://github.com/john-smilga/node-express-course/tree/main/02-express-tutorial/navbar-app). 
 
-### ✅ Tech Stack:
-- **MongoDB** – NoSQL Database
-- **Express.js** – Backend framework for Node.js
-- **React.js** – Front-end library
-- **Node.js** – Runtime for server-side logic
+## 📋 Features
 
----
+- Responsive design for mobile and desktop views
+- Dynamic rendering of nav links
+- Toggleable menu for smaller screens (hamburger menu)
+- Easy to customize and extend
+- Clean and minimal UI
 
-## 📂 Projects
+## 🛠️ Tech Stack
 
-| Project Name        | Description                       | Status   |
-|---------------------|-----------------------------------|----------|
-| `userLogin`    | This is a simple login form built using React   | ✅ Done   |
-| ...                 | More coming soon!                 | 🧪 Draft  |
+- **React** – JavaScript library for building user interfaces
+- **Node** – JavaScript runtime for development tooling and server-side support 
+- **CSS** – For styling the components
 
+## 📸 Demo
 
----
+![Navbar Demo](./Screenshot-2025-04-22.jpg)
 
-## 🛠️ Setup Instructions
+## 🚀 Getting Started
 
-Each project includes its own README file. But for general setup:
+To run this project locally:
 
 ```bash
-# Clone the repo
-git clone https://github.com/pushkar009/MERN-projects
-
-# Go to a specific project
-cd project-name
-
-# Install dependencies
-npm install           # or yarn
-
-# Start the development servers
-npm run dev
+git clone https://github.com/pushkar009/MERN-projects.git
+cd MERN-projects
+cd navbar-app
+npm install
+npm start
