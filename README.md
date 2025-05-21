@@ -18,7 +18,7 @@ This space contains hands-on projects built using **MongoDB**, **Express.js**, *
 
 | Project Name        | Description                       | Status   |
 |---------------------|-----------------------------------|----------|
-| `userLogin`         | This is a simple login form built using React   | ✅ Done   |
+| `userLogin`         | This is a only frontend for login form built using React | ✅ Done   |
 | `navbar-app`        | A responsive and modern navigation bar built with React, featuring dynamic links and smooth styling | ✅ Done |
 | ...                 | More coming soon!                 | 🧪 Draft  |
 
